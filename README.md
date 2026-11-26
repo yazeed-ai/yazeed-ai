@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yazeed Amin 👋
 
-<!--
-**yazeed-ai/yazeed-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI graduate from **Al-Zaytoonah University of Jordan**, focused on
+Machine Learning and Deep Learning, and passionate about turning
+data into practical, real-world solutions.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python
+- **Machine Learning:** Scikit-learn
+- **Deep Learning:** TensorFlow, PyTorch
+- **Data:** NumPy, Pandas, Matplotlib
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently
+- Working on my graduation project
+- Building and sharing projects
+
+## 📫 Connect with me
+- LinkedIn: [linkedin.com/in/yazeed-ai](https://www.linkedin.com/in/yazeed-ai)
