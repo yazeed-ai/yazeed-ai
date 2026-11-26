@@ -1,4 +1,4 @@
-# Hi, I'm Yazeed Amin 👋
+# Hi, I'm Yazeed Abdel-Hafez 👋
 
 AI graduate from **Al-Zaytoonah University of Jordan**, focused on
 Machine Learning and Deep Learning, and passionate about turning
